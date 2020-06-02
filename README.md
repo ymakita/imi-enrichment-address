@@ -1,4 +1,4 @@
-# imi-enrichment-address β
+# 住所変換コンポーネント imi-enrichment-address ES module version β
 
 入力となる JSON-LD に含まれる `住所>表記 をもつ 場所型` または `表記をもつ住所型` に対して各種のプロパティを補完して返すESモジュールです。
 
@@ -149,4 +149,4 @@ https://github.com/code4sabae/lgcode
 
 ## 出典
 
-本ライブラリは IMI 情報共有基盤 コンポーネントツール <https://info.gbiz.go.jp/tools/imi_tools/> の「全角-半角統一コンポーネント」をESモジュール対応したものです。
+本ライブラリは IMI 情報共有基盤 コンポーネントツール <https://info.gbiz.go.jp/tools/imi_tools/> の「住所変換コンポーネント」をESモジュール対応したものです。
