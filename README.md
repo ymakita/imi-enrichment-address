@@ -150,3 +150,11 @@ https://github.com/code4sabae/lgcode
 ## 出典
 
 本ライブラリは IMI 情報共有基盤 コンポーネントツール <https://info.gbiz.go.jp/tools/imi_tools/> の「住所変換コンポーネント」をESモジュール対応したものです。
+
+## 関連記事
+
+Deno対応ESモジュール対応、IMIコンポーネントツールx4とDenoバッジ  
+https://fukuno.jig.jp/2866  
+
+日本政府発のJavaScriptライブラリを勝手にweb標準化するプロジェクト、全角-半角統一コンポーネントのESモジュール/Deno対応版公開  
+https://fukuno.jig.jp/2865  
